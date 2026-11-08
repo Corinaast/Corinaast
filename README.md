@@ -19,6 +19,7 @@ arquitectura por capas, estructuras de datos y pruebas que realmente verifiquen 
 - 🎓 Estudio **Ingeniería en Tecnologías de la Información** en la Universidad de las Fuerzas Armadas **ESPE** (Quito, Ecuador).
 - ☕ Programo sobre todo en **Java**: Swing, Maven, JUnit 5, Mockito y JaCoCo.
 - 🌐 También hago front-end con **HTML, CSS, JavaScript y Bootstrap**.
+- 🖧 Diseño y verifico **redes multisede en GNS3**: VLAN, LACP, HSRP, STP y OSPFv2/v3.
 - 🧩 Me interesa la **arquitectura de software**: MVC, SOLID, separación por capas y pruebas automatizadas.
 - 🚀 Ahora estoy construyendo **MallaLab**, un simulador de avance académico con Spring Boot y React.
 
@@ -37,6 +38,7 @@ arquitectura por capas, estructuras de datos y pruebas que realmente verifiquen 
 | **[String Calculator (TDD)](https://github.com/Corinaast/string-calculator-tdd)** | Kata resuelta iteración por iteración, con rama de trabajo y CI en GitHub Actions. | Java · JUnit 5 · Maven · CI |
 | **[Árboles de expresión](https://github.com/Corinaast/arboles-de-expresion)** | Construye y evalúa expresiones infijas y visualiza un árbol binario de búsqueda. | Java · Swing |
 | **[Mochila 0/1](https://github.com/Corinaast/mochila-01-backtracking)** | Resuelve el problema de la mochila con backtracking y dibuja el árbol de exploración. | Java · Swing |
+| **[CondorBank · Red multisede](https://github.com/Corinaast/condorbank-netdevops)** | Red empresarial en GNS3 con VLAN, LACP, HSRP y OSPF multiárea; incluye informe y 30 capturas de verificación. | GNS3 · Cisco IOS · OSPF · IPv6 |
 
 ## Cómo trabajo
 
