@@ -16,7 +16,7 @@ arquitectura por capas, estructuras de datos y pruebas que realmente verifiquen 
 
 ## Sobre mí
 
-- 🎓 Estudio **Ingeniería en Tecnologías de la Información** en la Universidad de las Fuerzas Armadas **ESPE** (Quito, Ecuador).
+- 🎓 Estudio **Ingeniería en Tecnologías de la Información** en la Universidad de las Fuerzas Armadas **ESPE**, sede Santo Domingo (Ecuador).
 - ☕ Programo sobre todo en **Java**: Swing, Maven, JUnit 5, Mockito y JaCoCo.
 - 🌐 También hago front-end con **HTML, CSS, JavaScript y Bootstrap**.
 - 🖧 Diseño y verifico **redes multisede en GNS3**: VLAN, LACP, HSRP, STP y OSPFv2/v3.
@@ -54,4 +54,4 @@ arquitectura por capas, estructuras de datos y pruebas que realmente verifiquen 
 - 💼 [LinkedIn](https://www.linkedin.com/in/corina-alejandra-acosta-oliva-1555ba28a)
 - 🐙 [@Corinaast](https://github.com/Corinaast)
 
-<sub>Quito, Ecuador · Abierta a prácticas preprofesionales y proyectos de desarrollo.</sub>
+<sub>Santo Domingo, Ecuador · Abierta a prácticas preprofesionales y proyectos de desarrollo.</sub>
