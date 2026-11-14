@@ -27,6 +27,13 @@ arquitectura por capas, estructuras de datos y pruebas que realmente verifiquen 
 
 [![Tecnologías](https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,bootstrap,maven,mongodb,postgres,git,github,githubactions)](https://skillicons.dev)
 
+## 📊 Estadística de Ingeniería en GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Corinaast&locale=es&background=0D1117&border=30363D&stroke=30363D&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=FFFFFF&dates=8B949E" alt="Contribuciones y rachas en GitHub" width="49%" />
+  <img src="./assets/tecnologias.svg" alt="Lenguajes de mis repositorios públicos" width="49%" />
+</p>
+
 ## Proyectos destacados
 
 | Proyecto | Qué resuelve | Stack |
